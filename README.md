@@ -1,12 +1,5 @@
 # Banca Ficticia – Automatización de Pruebas (Módulo 4)
 
-## 🧪 Actividad Modular 4 – QA Automatizado  
-**Grupo 7 – Integrantes:**  
-- María Elena Salgado  
-- Diego Durán  
-- Sebastián Calvete  
-- Maykol Ramírez  
-
 ---
 
 ## 🎯 Objetivo  
@@ -61,8 +54,3 @@ Automatizar la validación de las funcionalidades principales del sitio web [Ban
 
 ---
 
-## ▶️ Comandos de Ejecución
-
-### Instalar dependencias  
-```bash
-mvn clean install
